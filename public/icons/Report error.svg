@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Group_1387"  transform="translate(-1301 -350.5)">
+    <path id="Stroke_4"  d="M0,14C0,3.5,3.5,0,14,0S28,3.5,28,14,24.5,28,14,28,0,24.5,0,14Z" transform="translate(1301 350.5)" fill="#db143d"/>
+    <g id="report" transform="translate(1303.5 352.792)">
+      <g id="Danger_Circle"  transform="translate(2 2)">
+        <path id="Stroke_1"  d="M0,9.5C0,2.376,2.376,0,9.5,0S19,2.376,19,9.5,16.624,19,9.5,19,0,16.624,0,9.5Z" fill="none" stroke="#f5f6fa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_3"  d="M.5,0V4" transform="translate(9 5.5)" fill="none" stroke="#f5f6fa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_15"  d="M.5.5H.5" transform="translate(9 12.594)" fill="none" stroke="#f5f6fa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

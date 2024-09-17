@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.5" height="27.5" viewBox="0 0 27.5 27.5">
+  <g id="Group_4363" data-name="Group 4363" transform="translate(20680.75 1592.476)">
+    <g id="Group_3744" data-name="Group 3744" transform="translate(-21917 -1999)">
+      <path id="Stroke_4" data-name="Stroke 4" d="M.5,13.5C.5,3.376,3.376.5,13.5.5s13,2.876,13,13-2.876,13-13,13S.5,23.624.5,13.5Z" transform="translate(1236.5 406.774)" fill="#8886ec" stroke="#8886ec" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <path id="Icon_material-message" data-name="Icon material-message" d="M16.057,3H4.451A1.449,1.449,0,0,0,3.007,4.451L3,17.508l2.9-2.9H16.057a1.455,1.455,0,0,0,1.451-1.451v-8.7A1.455,1.455,0,0,0,16.057,3Zm-1.451,8.7H5.9V10.254h8.7Zm0-2.176H5.9V8.078h8.7Zm0-2.176H5.9V5.9h8.7Z" transform="translate(-20676.654 -1589.004)" fill="#fff"/>
+  </g>
+</svg>

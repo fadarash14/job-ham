@@ -1,0 +1,13 @@
+<svg id="filters" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <path id="Stroke_4" data-name="Stroke 4" d="M0,15C0,3.751,3.751,0,15,0S30,3.751,30,15,26.249,30,15,30,0,26.249,0,15Z" fill="#fba303"/>
+  <g id="Iconly_Curved_Filter" data-name="Iconly/Curved/Filter" transform="translate(8.777 7.713)">
+    <g id="Filter">
+      <path id="Stroke_1" data-name="Stroke 1" d="M4.8.447H0" transform="translate(0 6.918)" fill="none" stroke="#2d2c2c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+      <path id="Stroke_1-2" data-name="Stroke 1" d="M0,.447H4.8" transform="translate(7.044 12.577)" fill="none" stroke="#2d2c2c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M0,2.017C0,3.53.5,4.034,2.017,4.034s2.017-.5,2.017-2.017S3.529,0,2.017,0,0,.5,0,2.017Z" transform="translate(7.806 5.349)" fill="none" stroke="#2d2c2c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+      <path id="Stroke_3-2" data-name="Stroke 3" d="M4.034,2.017c0,1.513-.5,2.017-2.017,2.017S0,3.53,0,2.017.5,0,2.017,0,4.034.5,4.034,2.017Z" transform="translate(0 11.008)" fill="none" stroke="#2d2c2c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+      <path id="Stroke_5" data-name="Stroke 5" d="M0,.447H4.8" transform="translate(7.044 1.571)" fill="none" stroke="#2d2c2c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+      <path id="Stroke_7" data-name="Stroke 7" d="M4.035,2.017C4.035.5,3.53,0,2.018,0S0,.5,0,2.017.5,4.034,2.018,4.034,4.035,3.53,4.035,2.017Z" fill="none" stroke="#2d2c2c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+  </g>
+</svg>

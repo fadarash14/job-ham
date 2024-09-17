@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.5" height="31.5" viewBox="0 0 31.5 31.5">
+  <g id="more" transform="translate(0.75 0.75)">
+    <path id="Stroke_4" data-name="Stroke 4" d="M0,15C0,3.751,3.751,0,15,0S30,3.751,30,15,26.249,30,15,30,0,26.249,0,15Z" fill="none" stroke="#2d2c2c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g id="Iconly_Curved_More_Square" data-name="Iconly/Curved/More Square" transform="translate(9.996 15.371)">
+      <g id="More_Square" data-name="More Square">
+        <path id="Stroke_11" data-name="Stroke 11" d="M.5.5H.507" transform="translate(9.811 -0.5)" fill="none" stroke="#2d2c2c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Stroke_13" data-name="Stroke 13" d="M.5.5H.507" transform="translate(4.658 -0.5)" fill="none" stroke="#2d2c2c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Stroke_15" data-name="Stroke 15" d="M.5.5H.507" transform="translate(-0.496 -0.5)" fill="none" stroke="#2d2c2c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+      </g>
+    </g>
+  </g>
+</svg>

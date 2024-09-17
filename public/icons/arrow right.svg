@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.49" height="28.49" viewBox="0 0 28.49 28.49">
+  <g id="Gruppe_1404" data-name="Gruppe 1404" transform="translate(-720 -495.863)">
+    <path id="Stroke_4" data-name="Stroke 4" d="M.5,14.745C.5,3.652,3.652.5,14.745.5S28.99,3.652,28.99,14.745,25.839,28.99,14.745,28.99.5,25.839.5,14.745Z" transform="translate(719.5 495.363)" fill="#474546" opacity="0.957"/>
+    <g id="Iconly_Curved_Arrow_-_Right_Square" data-name="Iconly/Curved/Arrow - Right Square" transform="translate(724 499.863)">
+      <g id="Arrow_-_Right_Square" data-name="Arrow - Right Square" transform="translate(2.347 18.132) rotate(-90)">
+        <path id="Stroke_1" data-name="Stroke 1" d="M0,6.973V0" transform="translate(7.893 4.406)" fill="none" stroke="#f5f6fa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_2" data-name="Stroke 2" d="M6.4,0S4.242,3.212,3.2,3.212,0,0,0,0" transform="translate(4.695 8.167)" fill="none" stroke="#f5f6fa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_4-2" data-name="Stroke 4" d="M0,7.893c0,5.919,1.974,7.893,7.893,7.893s7.893-1.974,7.893-7.893S13.812,0,7.893,0,0,1.974,0,7.893Z" fill="none" stroke="#f5f6fa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

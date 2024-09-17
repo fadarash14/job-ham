@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.499" height="36.499" viewBox="0 0 36.499 36.499">
+    <defs>
+        <style>
+            .cls-2{stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.5px;fill:#f5f6fa;stroke:#f5f6fa}
+        </style>
+    </defs>
+    <g id="Group_816" transform="translate(-323.25 -183.37)">
+        <path id="Stroke_4" fill="#db143d" stroke="#db143d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5px" d="M0 17.5C0 4.376 4.376 0 17.5 0S35 4.376 35 17.5 30.623 35 17.5 35 0 30.623 0 17.5z" transform="translate(324 184.12)"/>
+        <g id="Iconly_Curved_Profile" transform="translate(335 192.4)">
+            <g id="Profile" transform="translate(0 0)">
+                <path id="Stroke_1" d="M6.845 7.3C3.153 7.3 0 6.726 0 4.425S3.133 0 6.845 0c3.692 0 6.845 2.1 6.845 4.4s-3.134 2.9-6.845 2.9z" class="cls-2" transform="translate(0 11.962)"/>
+                <path id="Stroke_3" d="M4.387 8.774a4.372 4.372 0 1 0-.031 0z" class="cls-2" transform="translate(2.45 0)"/>
+            </g>
+        </g>
+    </g>
+</svg>

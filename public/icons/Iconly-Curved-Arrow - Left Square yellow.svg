@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Iconly_Curved_Arrow_-_Left_Square" data-name="Iconly/Curved/Arrow - Left Square" transform="translate(0.75 0.75)">
+    <g id="Arrow_-_Left_Square" data-name="Arrow - Left Square" transform="translate(19.25 -0.75) rotate(90)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M.5,8.172V0" transform="matrix(0.695, 0.719, -0.719, 0.695, 12.593, 6.801)" fill="none" stroke="#fcc155" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Stroke_2" data-name="Stroke 2" d="M7.5,0S4.972,3.764,3.748,3.764,0,0,0,0" transform="matrix(0.695, 0.719, -0.719, 0.695, 7.165, 7.526)" fill="none" stroke="#fcc155" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Stroke_4" data-name="Stroke 4" d="M0,9.25c0,6.937,2.313,9.25,9.25,9.25s9.25-2.313,9.25-9.25S16.187,0,9.25,0,0,2.313,0,9.25Z" transform="translate(0.75 0.75)" fill="none" stroke="#fcc155" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

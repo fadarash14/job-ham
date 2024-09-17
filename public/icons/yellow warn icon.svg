@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.5" height="22.5" viewBox="0 0 22.5 22.5">
+  <g id="report" transform="translate(-1.25 -1.25)">
+    <g id="Danger_Circle"  transform="translate(2 2)">
+      <path id="Stroke_1"  d="M0,10.5C0,2.626,2.626,0,10.5,0S21,2.626,21,10.5,18.374,21,10.5,21,0,18.374,0,10.5Z" transform="translate(0 0)" fill="#fcc155" stroke="#fcc155" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Stroke_3"  d="M.5,0V4.421" transform="translate(10 6.079)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Stroke_15"  d="M.5.5h.01" transform="translate(10 13.973)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

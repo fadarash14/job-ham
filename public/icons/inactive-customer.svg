@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.5" height="25.5" viewBox="0 0 25.5 25.5">
+  <g id="Group_2786" data-name="Group 2786" transform="translate(0.75 0.75)">
+    <path id="Stroke_4" data-name="Stroke 4" d="M0,12C0,3,3,0,12,0S24,3,24,12,21,24,12,24,0,21,0,12Z" fill="#acacac" stroke="#acacac" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g id="Iconly_Curved_Profile" data-name="Iconly/Curved/Profile" transform="translate(6.998 4.311)">
+      <g id="Profile">
+        <path id="Stroke_1" data-name="Stroke 1" d="M5.222,5.991C2.405,5.991,0,5.519,0,3.631S2.39,0,5.222,0c2.817,0,5.222,1.726,5.222,3.614S8.054,5.991,5.222,5.991Z" transform="translate(0 9.816)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_3" data-name="Stroke 3" d="M3.347,7.2A3.48,3.48,0,0,0,6.694,3.6,3.481,3.481,0,0,0,3.347,0,3.481,3.481,0,0,0,0,3.6,3.47,3.47,0,0,0,3.324,7.2Z" transform="translate(1.869 0)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

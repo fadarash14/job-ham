@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.5" height="31.5" viewBox="0 0 31.5 31.5">
+  <g id="Group_1672" data-name="Group 1672" transform="translate(-997.25 -451.25)">
+    <g id="Group_1393" data-name="Group 1393" transform="translate(941 192)">
+      <g id="Group_905" data-name="Group 905" transform="translate(57 260)">
+        <path id="Stroke_4" data-name="Stroke 4" d="M.5,15.5C.5,3.819,3.819.5,15.5.5s15,3.319,15,15-3.319,15-15,15S.5,27.181.5,15.5Z" transform="translate(-0.5 -0.5)" fill="#fcc155" stroke="#fcc155" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+    <path id="Fill_4" data-name="Fill 4" d="M13.2,4.876,5,13.115a2.251,2.251,0,0,1-1.571.647H.573a.579.579,0,0,1-.414-.171A.571.571,0,0,1,0,13.176l.073-2.893A2.2,2.2,0,0,1,.719,8.77l5.81-5.822a.265.265,0,0,1,.365,0l2.038,2.03a.77.77,0,0,0,.536.22.8.8,0,0,0,.8-.806.828.828,0,0,0-.219-.561C10.012,3.782,8.072,1.85,8.072,1.85a.325.325,0,0,1,0-.452l.816-.83a1.924,1.924,0,0,1,2.729,0L13.2,2.154a1.94,1.94,0,0,1,0,2.722" transform="translate(1006.121 460.119)" fill="#fff"/>
+  </g>
+</svg>

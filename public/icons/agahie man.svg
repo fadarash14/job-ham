@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.5" height="20.5" viewBox="0 0 20.5 20.5">
+  <g id="Group_1565" data-name="Group 1565" transform="translate(-651.25 -188.633)">
+    <path id="Stroke_4" data-name="Stroke 4" d="M.5,10C.5,2.6,2.6.5,10,.5s9.5,2.1,9.5,9.5-2.1,9.5-9.5,9.5S.5,17.4.5,10Z" transform="translate(651.5 188.883)" fill="#0a84ff" stroke="#0a84ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g id="Iconly_Bulk_Plus" data-name="Iconly/Bulk/Plus" transform="translate(656.221 193.604)">
+      <g id="Plus">
+        <path id="Path_34200" d="M7.743,0H2.816A2.556,2.556,0,0,0,0,2.816V7.743a2.556,2.556,0,0,0,2.816,2.816H7.743a2.558,2.558,0,0,0,2.816-2.816V2.816A2.556,2.556,0,0,0,7.743,0Z" transform="translate(0 0)" fill="#fff"/>
+        <path id="Path_34201" d="M3.865,2.486H2.507V3.831a.4.4,0,0,1-.791,0V2.486H.359a.4.4,0,0,1,0-.789H1.712V.356a.4.4,0,0,1,.8,0V1.7H3.865a.4.4,0,0,1,0,.789Z" transform="translate(3.168 3.168)" fill="#0a84ff" stroke="#0a84ff" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

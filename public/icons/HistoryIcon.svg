@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.5" height="27.5" viewBox="0 0 27.5 27.5">
+  <g id="Group_2154" data-name="Group 2154" transform="translate(-1235.75 -283.25)">
+    <path id="Stroke_4" data-name="Stroke 4" d="M.5,13.5C.5,3.376,3.376.5,13.5.5s13,2.876,13,13-2.876,13-13,13S.5,23.624.5,13.5Z" transform="translate(1236 283.5)" fill="#fcc155" stroke="#fcc155" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g id="Iconly_Bulk_Time_Square" data-name="Iconly/Bulk/Time Square" transform="translate(1242.637 290.289)">
+      <g id="Time_Square" data-name="Time Square">
+        <path id="Fill_3" data-name="Fill 3" d="M9.513,0H3.761A3.643,3.643,0,0,0,0,3.927v5.42a3.641,3.641,0,0,0,3.761,3.921H9.513a3.636,3.636,0,0,0,3.755-3.921V3.927A3.638,3.638,0,0,0,9.513,0" fill="#fff"/>
+        <path id="Fill_1" data-name="Fill 1" d="M3.1,5.9a.5.5,0,0,1-.255-.07L.242,4.274A.5.5,0,0,1,0,3.846V.5a.5.5,0,0,1,1,0V3.563L3.357,4.971A.5.5,0,0,1,3.1,5.9" transform="translate(5.903 3.268)" fill="#fcc155"/>
+      </g>
+    </g>
+  </g>
+</svg>

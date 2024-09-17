@@ -1,0 +1,32 @@
+[
+  {
+    "order": 1,
+    "title": "فناپ",
+    "jobTitle": "توسعه نرم‌افزار",
+    "hiringStatus": 1
+  },
+  {
+    "order": 2,
+    "title": "فرزانگان پارس",
+    "jobTitle": "توسعه نرم‌افزار",
+    "hiringStatus": 0
+  },
+  {
+    "order": 3,
+    "title": "آریا همراه",
+    "jobTitle": "واکاوی داده",
+    "hiringStatus": 41
+  },
+  {
+    "order": 4,
+    "title": "همکاران سیستم",
+    "jobTitle": "توسعه نرم‌افزار",
+    "hiringStatus": 12
+  },
+  {
+    "order": 5,
+    "title": "آتیه‌سازان",
+    "jobTitle": "توسعه نرم‌افزار",
+    "hiringStatus": 22
+  }
+]

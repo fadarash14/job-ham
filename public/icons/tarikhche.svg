@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.5" height="20.5" viewBox="0 0 20.5 20.5">
+  <g id="Group_1456" data-name="Group 1456" transform="translate(-151.75 0.75)">
+    <g id="Group_826" data-name="Group 826" transform="translate(152.5 0)">
+      <path id="Stroke_4" data-name="Stroke 4" d="M.5,10C.5,2.6,2.6.5,10,.5s9.5,2.1,9.5,9.5-2.1,9.5-9.5,9.5S.5,17.4.5,10Z" transform="translate(-0.5 -0.5)" fill="#fcc155" stroke="#fcc155" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g id="Iconly_Bulk_Time_Square" data-name="Iconly/Bulk/Time Square" transform="translate(156.985 4.596)">
+      <g id="Time_Square" data-name="Time Square">
+        <path id="Fill_3" data-name="Fill 3" d="M6.952,0h-4.2A2.662,2.662,0,0,0,0,2.87V6.831A2.661,2.661,0,0,0,2.749,9.7h4.2A2.657,2.657,0,0,0,9.7,6.831V2.87A2.658,2.658,0,0,0,6.952,0" fill="#fff"/>
+        <path id="Fill_1" data-name="Fill 1" d="M2.266,4.309a.366.366,0,0,1-.186-.051L.177,3.123A.365.365,0,0,1,0,2.81V.364a.364.364,0,1,1,.727,0V2.6L2.453,3.633a.364.364,0,0,1-.187.676" transform="translate(4.314 2.388)" fill="#fcc155"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1054 @@
+{
+  "data": [
+    {
+      "id": 755137,
+      "name": "تراشکار ماهر و مسلط ",
+      "code": "Rah-0207999-0015539",
+      "content": "جهت کار در یک شرکت دستگاه سازی در واحد تراشکاری ",
+      "contact": null,
+      "category": {
+        "groupId": 1194,
+        "groupString": "تکنسین",
+        "categoryId": 1347,
+        "categoryString": "سایر تکنسین"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 259,
+        "cityString": "رباط کریم",
+        "areaId": 0,
+        "areaString": "همه محله ها"
+      },
+      "filters": [
+        {
+          "id": 129,
+          "key": "militaryservice",
+          "unit": "",
+          "type": null,
+          "label": "خدمت سربازی"
+        },
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 54,
+          "key": "age",
+          "unit": "",
+          "type": null,
+          "label": "سن"
+        },
+        {
+          "id": 56,
+          "key": "workshift",
+          "unit": "",
+          "type": null,
+          "label": "شیفت کاری"
+        },
+        {
+          "id": 53,
+          "key": "sex",
+          "unit": "",
+          "type": null,
+          "label": "جنسیت"
+        },
+        {
+          "id": 121,
+          "key": "education",
+          "unit": "",
+          "type": null,
+          "label": "مدرک تحصیلی"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 755048,
+      "name": "استخدام مهندس امتیازآور جهت رتبه بندی",
+      "code": "Rah-0207921-0013332",
+      "content": "نیازمند مهندس امتیاز آور\r\nجهت رتبه بندی\r\nاز رشته های :\r\nعمران - معماری - برق - مکانیک و سایر\r\nدارای حداقل 3 سال سابقه بیمه \r\nو بازنشسته های محترم\r\nجهت کسب اطلاعات بیشتر با شماره های زیر تماس حاصل فرمایید .\r\n( داخلی 305 )  91017677 - 021\r\n09196993069",
+      "contact": null,
+      "category": {
+        "groupId": 1187,
+        "groupString": "مهندس",
+        "categoryId": 1466,
+        "categoryString": "مهندس معماری"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 192,
+        "cityString": "همه شهر ها",
+        "areaId": 2000,
+        "areaString": "تمام محله ها"
+      },
+      "filters": [
+        {
+          "id": 56,
+          "key": "workshift",
+          "unit": "",
+          "type": null,
+          "label": "شیفت کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 755047,
+      "name": "استخدام مهندس امتیازآور جهت رتبه بندی",
+      "code": "Rah-0207921-0013331",
+      "content": "نیازمند مهندس امتیاز آور\r\nجهت رتبه بندی\r\nاز رشته های :\r\nعمران - معماری - برق - مکانیک و سایر\r\nدارای حداقل 3 سال سابقه بیمه \r\nو بازنشسته های محترم\r\nجهت کسب اطلاعات بیشتر با شماره های زیر تماس حاصل فرمایید .\r\n( داخلی 305 )  91017677 - 021\r\n09196993069",
+      "contact": null,
+      "category": {
+        "groupId": 1187,
+        "groupString": "مهندس",
+        "categoryId": 1463,
+        "categoryString": "مهندس برق، الکترونیک"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 192,
+        "cityString": "همه شهر ها",
+        "areaId": 2000,
+        "areaString": "تمام محله ها"
+      },
+      "filters": [
+        {
+          "id": 56,
+          "key": "workshift",
+          "unit": "",
+          "type": null,
+          "label": "شیفت کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 745302,
+      "name": "استخدام ویتر ماهر",
+      "code": "Rah-0206205-0003930",
+      "content": "از علاقه مندان کار جهت فعالیت در مجموعه ای معتبر \r\nبا حقوق  و مزایای عالی دعوت به همکاری می نماید\r\nویتر ماهر با حقوق عالی\r\n( در شهر تهران )\r\n09388581261",
+      "contact": null,
+      "category": {
+        "groupId": 1180,
+        "groupString": "استخدام",
+        "categoryId": 1206,
+        "categoryString": "کافی شاپ کار"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 192,
+        "cityString": "همه شهر ها",
+        "areaId": 2000,
+        "areaString": "تمام محله ها"
+      },
+      "filters": [
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": {
+          "name": "img-294174-1695441115300-1",
+          "image": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-294174-1695441115300-1.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=miWJQrsoauW2G%2B11PIEbtuOhwD4%3D",
+          "thumbnail": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-294174-1695441115300-1.thumbnail.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=HnO0hdP2%2BhkylzetbZqCiyoS91I%3D"
+        },
+        "all": null
+      }
+    },
+    {
+      "id": 754755,
+      "name": "استخدام فروشنده کارگر سوپر مارکت غیر اتباع",
+      "code": "Rah-0207249-0001738",
+      "content": "فروشنده باتجربه\r\n و کارگرساده \r\n جهت سوپرمارکت غیر اتباع \r\nباحقوق مکفی \r\nمحدوده ارژانتین\r\n(بدون جای خواب) \r\n 09121140953",
+      "contact": null,
+      "category": {
+        "groupId": 1181,
+        "groupString": "کارگر ساده",
+        "categoryId": 1398,
+        "categoryString": "کارگر سوپرمارکت"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 1936,
+        "areaString": "میدان آرژانتین\r"
+      },
+      "filters": [],
+      "pictures": {
+        "thumbnail": {
+          "name": "img-354112-1697859118702-1",
+          "image": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-354112-1697859118702-1.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=JCe4NklXS8scBToJaNa4OYrgOi0%3D",
+          "thumbnail": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-354112-1697859118702-1.thumbnail.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=KBZteNQDWeGt7zQK%2BEtbITMgy%2FM%3D"
+        },
+        "all": null
+      }
+    },
+    {
+      "id": 754408,
+      "name": "استخدام وسط کار",
+      "code": "Rah-0207921-0013220",
+      "content": "به تعدادی وسط کار \r\nخانم یا آقا نیازمندیم \r\nبا حقوق عالی \r\n09125776439",
+      "contact": null,
+      "category": {
+        "groupId": 1182,
+        "groupString": "خیاط و مشاغل مرتبط",
+        "categoryId": 1362,
+        "categoryString": "وسط کار پوشاک"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 192,
+        "cityString": "همه شهر ها",
+        "areaId": 2000,
+        "areaString": "تمام محله ها"
+      },
+      "filters": [
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 53,
+          "key": "sex",
+          "unit": "",
+          "type": null,
+          "label": "جنسیت"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": {
+          "name": "img-161115-1697858986088-1",
+          "image": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-161115-1697858986088-1.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=%2FdhPfUbb19CV8Jr210L021NyeoI%3D",
+          "thumbnail": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-161115-1697858986088-1.thumbnail.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=8IF07guL%2FciXyNuL9SMcbyGunn8%3D"
+        },
+        "all": null
+      }
+    },
+    {
+      "id": 753394,
+      "name": "استخدام - پزشک متخصص",
+      "code": "Rah-0207244-0000324",
+      "content": "درمانگاه شبانه روزی واقع در شادآباد به پزشکان متخصص زنان نیازمند است 09123098667",
+      "contact": null,
+      "category": {
+        "groupId": 1189,
+        "groupString": "درمانی، پزشکی و سلامت",
+        "categoryId": 1320,
+        "categoryString": "پزشک متخصص"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 1156,
+        "areaString": "شادآباد\r"
+      },
+      "filters": [
+        {
+          "id": 129,
+          "key": "militaryservice",
+          "unit": "",
+          "type": null,
+          "label": "خدمت سربازی"
+        },
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 121,
+          "key": "education",
+          "unit": "",
+          "type": null,
+          "label": "مدرک تحصیلی"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 754907,
+      "name": "تعدادی‌ فروشنده خانم و آقا",
+      "code": "Rah-0207331-0002635",
+      "content": "تعدادی‌ فروشنده\r\n یا همکار خانم وآقا \r\nدرمغازه کیف و کفش نیازمندیم\r\n(با حقوق مکفی)\r\n09121838400و88906057",
+      "contact": null,
+      "category": {
+        "groupId": 1188,
+        "groupString": "فروشنده",
+        "categoryId": 1380,
+        "categoryString": "فروشنده کیف و کفش"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 947,
+        "areaString": "تمام محله ها\r"
+      },
+      "filters": [
+        {
+          "id": 129,
+          "key": "militaryservice",
+          "unit": "",
+          "type": null,
+          "label": "خدمت سربازی"
+        },
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 54,
+          "key": "age",
+          "unit": "",
+          "type": null,
+          "label": "سن"
+        },
+        {
+          "id": 56,
+          "key": "workshift",
+          "unit": "",
+          "type": null,
+          "label": "شیفت کاری"
+        },
+        {
+          "id": 121,
+          "key": "education",
+          "unit": "",
+          "type": null,
+          "label": "مدرک تحصیلی"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 754071,
+      "name": "استخدام کارمند فروش خانم در بازرگانی نبوی در تهران خیابان مطهری",
+      "code": "Rah-0207210-0002214",
+      "content": "بازرگانی نبوی\r\nاز کارمند فروش خانم\r\nدعوت به همکاری می نماید\r\n\r\nتلفن :\r\n88511729",
+      "contact": null,
+      "category": {
+        "groupId": 1183,
+        "groupString": "کارمند",
+        "categoryId": 1435,
+        "categoryString": "کارمند فروش"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 1785,
+        "areaString": "مطهری"
+      },
+      "filters": [
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 53,
+          "key": "sex",
+          "unit": "",
+          "type": null,
+          "label": "جنسیت"
+        }
+      ],
+      "pictures": {
+        "thumbnail": {
+          "name": "img-166523-1697858908396-1",
+          "image": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-166523-1697858908396-1.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=H8ZtNJABcHsZM2xhBwVwVrgQCtE%3D",
+          "thumbnail": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-166523-1697858908396-1.thumbnail.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=eprORo%2FxDH9Zu%2B%2B2XVtyIZ7Oo7s%3D"
+        },
+        "all": null
+      }
+    },
+    {
+      "id": 754935,
+      "name": "استخدام مزدی دوز",
+      "code": "Rah-0207201-0006362",
+      "content": "به تعدادی مزدی دوز زمستانی دوز نیازمندیم",
+      "contact": null,
+      "category": {
+        "groupId": 1182,
+        "groupString": "خیاط و مشاغل مرتبط",
+        "categoryId": 1354,
+        "categoryString": "خیاط بیرون بر، مزدی دوز"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 947,
+        "areaString": "تمام محله ها\r"
+      },
+      "filters": [
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 754851,
+      "name": "زیگزال دوز راسته دوز ، وسط کار",
+      "code": "Rah-0207201-0006335",
+      "content": "زیگزال دوز راسته دوز ، وسط کار نیازمندیم(چهارراه مختاری)\r\n09138817625",
+      "contact": null,
+      "category": {
+        "groupId": 1182,
+        "groupString": "خیاط و مشاغل مرتبط",
+        "categoryId": 1356,
+        "categoryString": "خیاط زیگزاگ دوز"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 947,
+        "areaString": "تمام محله ها\r"
+      },
+      "filters": [
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 754714,
+      "name": "استخدام نگهبان",
+      "code": "Rah-0207572-0000015",
+      "content": "شرکت تولیدی در محدوده کهریزک و اسلامشهر به تعدادی \r\nنگهبان نیازمند است.\r\n56545952 الی 56545948",
+      "contact": null,
+      "category": {
+        "groupId": 1209,
+        "groupString": "سایر مشاغل",
+        "categoryId": 1477,
+        "categoryString": "نگهبان"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 947,
+        "areaString": "تمام محله ها\r"
+      },
+      "filters": [
+        {
+          "id": 129,
+          "key": "militaryservice",
+          "unit": "",
+          "type": null,
+          "label": "خدمت سربازی"
+        },
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 54,
+          "key": "age",
+          "unit": "",
+          "type": null,
+          "label": "سن"
+        },
+        {
+          "id": 56,
+          "key": "workshift",
+          "unit": "",
+          "type": null,
+          "label": "شیفت کاری"
+        },
+        {
+          "id": 53,
+          "key": "sex",
+          "unit": "",
+          "type": null,
+          "label": "جنسیت"
+        },
+        {
+          "id": 121,
+          "key": "education",
+          "unit": "",
+          "type": null,
+          "label": "مدرک تحصیلی"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 754889,
+      "name": "تعدادی وسط کار وبسته بند خانم و آقا",
+      "code": "Rah-0207201-0006349",
+      "content": "تعدادی وسط کار و بسته بند خانم و آقا نیازمندیم\r\nبا حقوق و مزایا\r\n(محدوده انقلاب)\r\n66978723",
+      "contact": null,
+      "category": {
+        "groupId": 1182,
+        "groupString": "خیاط و مشاغل مرتبط",
+        "categoryId": 1362,
+        "categoryString": "وسط کار پوشاک"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 947,
+        "areaString": "تمام محله ها\r"
+      },
+      "filters": [
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 754952,
+      "name": "استخدام شرکت آذین گوهر تابان",
+      "code": "Rah-0207206-0001588",
+      "content": "شرکت آذین گوهر تابان \r\nاز واجدین شرایط درراستای ارتقاء بهره بری تولیدوفروش دعوت به همکاری می‌نماید.\r\n1.کارشناس فروش مسلط به تولیدمحتوا،پشتیبانی سایت و فضای مجازی\r\n2.حسابدار مسلط به امورمالیاتی با سوابق بالا\r\n3.اپراتور خط تولید ام دی اف هایگلاس\r\nحقوق توافقی+بیمه+مزایا\r\nمحدوده شهرک صنعتی نصیرآباد\r\n09122488467   یارامشلو",
+      "contact": null,
+      "category": {
+        "groupId": 1190,
+        "groupString": "کارشناس",
+        "categoryId": 1386,
+        "categoryString": "کارشناس فروش"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 1797,
+        "areaString": "نصیرآباد\r"
+      },
+      "filters": [
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": {
+          "name": "img-38921-1697857613231-1",
+          "image": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-38921-1697857613231-1.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=B3p%2FdZzxCSmfs1%2FF8z0CAgmcIS0%3D",
+          "thumbnail": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-38921-1697857613231-1.thumbnail.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=NQIPlgpV%2BX2tq185Vs5LvdcPnGM%3D"
+        },
+        "all": null
+      }
+    },
+    {
+      "id": 754740,
+      "name": "استخدام سرایدار",
+      "code": "Rah-0207606-0001131",
+      "content": "استخدام سرایدار\r\nبیمه تامین اجتماعی،بیمه تکمیلی،عیدی وپاداش،حقوق وزارت کار\r\nمحدوده مطهری-مفتح \r\n88849710\r\n88849553",
+      "contact": null,
+      "category": {
+        "groupId": 1181,
+        "groupString": "کارگر ساده",
+        "categoryId": 1397,
+        "categoryString": "سرایدار"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 947,
+        "areaString": "تمام محله ها\r"
+      },
+      "filters": [
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 754367,
+      "name": "استخدام برشکار و مونتاژکار در شهریار",
+      "code": "Rah-0207893-0000842",
+      "content": "برشکار و مونتاژکارMDF و کارگر ساده با بیمه و مزایا نیازمندیم محدوده شهریار و اندیشه\r\n09127260627",
+      "contact": null,
+      "category": {
+        "groupId": 1185,
+        "groupString": "کارگر ماهر",
+        "categoryId": 1419,
+        "categoryString": "مونتاژکار"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 1225,
+        "areaString": "شهریار\r"
+      },
+      "filters": [
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 751803,
+      "name": "استخدام استخدام کارمند خانم",
+      "code": "Rah-0207921-0012770",
+      "content": "استخدام کارمند  خانم\r\nدر شرکت معتبر\r\n ( سهروردی )\r\nحقوق ثابت 9 میلیون  +  بیمه \r\n88761953",
+      "contact": null,
+      "category": {
+        "groupId": 1183,
+        "groupString": "کارمند",
+        "categoryId": 1429,
+        "categoryString": "کارمند اداری"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 1149,
+        "areaString": "سهروردی\r"
+      },
+      "filters": [
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 53,
+          "key": "sex",
+          "unit": "",
+          "type": null,
+          "label": "جنسیت"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": {
+          "name": "img-115827-1697253769857-1",
+          "image": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-115827-1697253769857-1.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=O%2FxK%2FWLEX4EMr1eurueT%2FmFwzH8%3D",
+          "thumbnail": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-115827-1697253769857-1.thumbnail.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=8m7XbYFQsSoJhuuwBiLHHK7nKa0%3D"
+        },
+        "all": null
+      }
+    },
+    {
+      "id": 745306,
+      "name": "استخدام سالن کار",
+      "code": "Rah-0206205-0003934",
+      "content": "از علاقه مندان کار جهت فعالیت در مجموعه ای معتبر \r\nبا حقوق  و مزایای عالی دعوت به همکاری می نماید\r\nسالن کار با حقوق عالی\r\nمحدوده شهرک غرب\r\n09388581261",
+      "contact": null,
+      "category": {
+        "groupId": 1191,
+        "groupString": "آشپز و مشاغل مرتبط",
+        "categoryId": 1303,
+        "categoryString": "سالن کار"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 192,
+        "cityString": "همه شهر ها",
+        "areaId": 2000,
+        "areaString": "تمام محله ها"
+      },
+      "filters": [
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": {
+          "name": "img-294174-1695440101224-1",
+          "image": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-294174-1695440101224-1.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=tZAS97JEUrI387XaWHRjJvF7RoE%3D",
+          "thumbnail": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-294174-1695440101224-1.thumbnail.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=Eu%2Fbm6miLMXo9P5c52vIFsV0G1k%3D"
+        },
+        "all": null
+      }
+    },
+    {
+      "id": 754811,
+      "name": "استخدام برشکار ماهر",
+      "code": "Rah-0207205-0004502",
+      "content": "برشکار ماهر\r\nمسلط به الگوی زنانه نیازمندیم \r\nشومیز و کت و شلوار\r\nمحل کار حوالی مترو دروازه دولت \r\n\r\nتماس 09121541447",
+      "contact": null,
+      "category": {
+        "groupId": 1182,
+        "groupString": "خیاط و مشاغل مرتبط",
+        "categoryId": 1359,
+        "categoryString": "برشکار"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 947,
+        "areaString": "تمام محله ها\r"
+      },
+      "filters": [
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 754454,
+      "name": "استخدام تحصیلدارآقا/فلکه دوم صادقیه",
+      "code": "Rah-0207347-0002223",
+      "content": " تحصیلدارآقا/فلکه دوم صادقیه\r\n تحصیـلداربدون موتـوردارای گواهینامه موتورسیکلت مسلـط به کلیه امـوربـانکی \r\nتماس وارسال رزومه‌واتساپ\r\n09300626076\r\n",
+      "contact": null,
+      "category": {
+        "groupId": 1193,
+        "groupString": "پیک",
+        "categoryId": 1334,
+        "categoryString": "تحصیلدار"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 947,
+        "areaString": "تمام محله ها\r"
+      },
+      "filters": [
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 53,
+          "key": "sex",
+          "unit": "",
+          "type": null,
+          "label": "جنسیت"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 754893,
+      "name": "تنه دوز ، بیرون بر تنه و وسط کار و مچ دمپادوز",
+      "code": "Rah-0207201-0006350",
+      "content": "تنه دوز ، بیرون بر تنه و وسط کار و مچ دمپادوز\r\nماهرنیازمندیم(محدوده‌خزانه)\r\n09362070651",
+      "contact": null,
+      "category": {
+        "groupId": 1182,
+        "groupString": "خیاط و مشاغل مرتبط",
+        "categoryId": 1354,
+        "categoryString": "خیاط بیرون بر، مزدی دوز"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 947,
+        "areaString": "تمام محله ها\r"
+      },
+      "filters": [
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 754809,
+      "name": "به تعدادی پوست کار پرداخت کار ماهر",
+      "code": "Rah-0207201-0006317",
+      "content": "به تعدادی پوست کار پرداخت کار ماهرولیزرجوش\r\nجهت کارگاه‌طلاسازی‌نیازمندیم\r\n09125408346",
+      "contact": null,
+      "category": {
+        "groupId": 1185,
+        "groupString": "کارگر ماهر",
+        "categoryId": 1416,
+        "categoryString": "طلا و جواهرات ساز"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 947,
+        "areaString": "تمام محله ها\r"
+      },
+      "filters": [
+        {
+          "id": 55,
+          "key": "wage",
+          "unit": "",
+          "type": null,
+          "label": "حقوق ماهیانه"
+        },
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": null,
+        "all": null
+      }
+    },
+    {
+      "id": 754870,
+      "name": "استخدام کارگرساده‌آقاجهت‌کاردرانبار",
+      "code": "Rah-0207921-0013306",
+      "content": "کارگرساده‌آقاجهت‌کاردرانبار\r\nمحدوده فدائیان اسلام \r\nنیازمندیم\r\n33770387 ـ 021\r\n09124858802",
+      "contact": null,
+      "category": {
+        "groupId": 1180,
+        "groupString": "استخدام",
+        "categoryId": 1181,
+        "categoryString": "کارگر ساده"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 7,
+        "cityString": "تهران",
+        "areaId": 947,
+        "areaString": "تمام محله ها\r"
+      },
+      "filters": [],
+      "pictures": {
+        "thumbnail": {
+          "name": "img-124106-1697857730288-1",
+          "image": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-124106-1697857730288-1.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=z8XcB3IS48gMQvKdoCUuZCpfLnM%3D",
+          "thumbnail": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-124106-1697857730288-1.thumbnail.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=8BGCXKibrcNNuMFwpshzfRtSRYw%3D"
+        },
+        "all": null
+      }
+    },
+    {
+      "id": 745297,
+      "name": "استخدام خوشامدگو خانم",
+      "code": "Rah-0206205-0003927",
+      "content": "از علاقه مندان کار جهت فعالیت در مجموعه ای معتبر \r\nبا حقوق  و مزایای عالی دعوت به همکاری می نماید\r\nخوشامدگو خانم با حقوق عالی\r\nشمال تهران\r\n09388581261",
+      "contact": null,
+      "category": {
+        "groupId": 1191,
+        "groupString": "آشپز و مشاغل مرتبط",
+        "categoryId": 1303,
+        "categoryString": "سالن کار"
+      },
+      "location": {
+        "pin": null,
+        "cityId": 192,
+        "cityString": "همه شهر ها",
+        "areaId": 2000,
+        "areaString": "تمام محله ها"
+      },
+      "filters": [
+        {
+          "id": 127,
+          "key": "workexperience",
+          "unit": "",
+          "type": null,
+          "label": "سابقه کاری"
+        }
+      ],
+      "pictures": {
+        "thumbnail": {
+          "name": "img-294174-1695438848528-1",
+          "image": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-294174-1695438848528-1.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=nJpRyM4QCAc7Nv4qyYGqC8oM5vU%3D",
+          "thumbnail": "https://s3.ir-thr-at1.arvanstorage.com/itemspicture/img-294174-1695438848528-1.thumbnail.jpeg?AWSAccessKeyId=864fbe57-970e-4ce8-981a-fea6e5a29882&Expires=1697867247&Signature=V9f0YWHf%2BwEMNxpQwCgXjL1xta4%3D"
+        },
+        "all": null
+      }
+    }
+  ]
+}

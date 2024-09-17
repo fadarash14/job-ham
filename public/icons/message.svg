@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.5" height="31.5" viewBox="0 0 31.5 31.5">
+  <g id="Group_1660"  transform="translate(0.75 0.75)">
+    <g id="Group_1660-2" >
+      <g id="Group_905" >
+        <path id="Stroke_4"  d="M.5,15.5C.5,3.819,3.819.5,15.5.5s15,3.319,15,15-3.319,15-15,15S.5,27.181.5,15.5Z" transform="translate(-0.5 -0.5)" fill="#fcc155" stroke="#fcc155" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+    <g id="Group_1658"  transform="translate(6.326 6.326)">
+      <g id="Iconly_Curved_Chat" >
+        <g id="Chat">
+          <path id="Stroke_4-2"  d="M14.808,14.807a8.679,8.679,0,0,1-9.789,1.738c-.474-.191-3.544.659-4.21-.006S.994,12.8.8,12.329a8.676,8.676,0,1,1,14,2.478Z" transform="translate(0)" fill="#fff"/>
+        </g>
+      </g>
+      <path id="Stroke_1"  d="M0,.5H7.485" transform="translate(4.82 6.148)" fill="none" stroke="#fcc155" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Stroke_1-2"  d="M0,.5H3.742" transform="translate(4.821 10.2)" fill="none" stroke="#fcc155" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

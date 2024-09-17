@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.021" height="15.021" viewBox="0 0 15.021 15.021">
+    <defs>
+        <style>
+            .cls-1{fill:#474546;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="Iconly_Curved_Arrow_-_Left_Circle" transform="translate(0.5 14.521) rotate(-90)">
+        <g id="Arrow_-_Left_Circle" transform="translate(14.021 0) rotate(90)">
+            <path id="Stroke_1" d="M0 7.01c0 5.257 1.753 7.01 7.01 7.01s7.01-1.753 7.01-7.01S12.268 0 7.01 0 0 1.753 0 7.01z" class="cls-1" transform="translate(0 0)"/>
+            <path id="Stroke_3" d="M0 0s1.813 2.642 2.631 2.642S5.261 0 5.261 0" class="cls-1" transform="translate(4.379 5.918)"/>
+        </g>
+    </g>
+</svg>

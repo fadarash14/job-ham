@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_1610"  transform="translate(-200 -30.25)">
+    <path id="Stroke_4"  d="M0,15C0,3.751,3.751,0,15,0S30,3.751,30,15,26.249,30,15,30,0,26.249,0,15Z" transform="translate(200 30.25)" fill="#474546"/>
+    <g id="Group_1063"  transform="translate(275.5 37.479)">
+      <g id="Iconly_Curved_Profile"  transform="translate(-70 -1.5)">
+        <g id="Profile" transform="translate(4.063 1.95)">
+          <path id="Stroke_1"  d="M5.561,5.931C2.562,5.931,0,5.464,0,3.6S2.545,0,5.561,0c3,0,5.561,1.709,5.561,3.578S8.577,5.931,5.561,5.931Z" transform="translate(0 9.719)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+          <path id="Stroke_3"  d="M3.565,7.129a3.552,3.552,0,1,0-.025,0Z" transform="translate(1.991)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <g id="Gruppe_1334" data-name="Gruppe 1334" transform="translate(-74.75 -108)">
+    <g id="Iconly_Curved_Close_Square" data-name="Iconly/Curved/Close Square" transform="translate(74.75 108)">
+      <g id="Close_Square" data-name="Close Square">
+        <path id="Stroke_3" data-name="Stroke 3" d="M0,8.5C0,14.875,2.125,17,8.5,17S17,14.875,17,8.5,14.875,0,8.5,0,0,2.125,0,8.5Z" transform="translate(0 0)" fill="#2d2c2c"/>
+      </g>
+    </g>
+    <path id="Stroke_1" data-name="Stroke 1" d="M4.4,0,0,4.4" transform="translate(81.046 114.29)" fill="#f5f6fa" stroke="#f5f6fa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Stroke_2" data-name="Stroke 2" d="M4.411,4.411,0,0" transform="translate(81.044 114.288)" fill="#2d2c2c" stroke="#f5f6fa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

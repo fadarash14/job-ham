@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.5" height="31.5" viewBox="0 0 31.5 31.5">
+  <g id="support" transform="translate(0.75 0.75)">
+    <path id="Stroke_4" data-name="Stroke 4" d="M0,15C0,3.751,3.751,0,15,0S30,3.751,30,15,26.249,30,15,30,0,26.249,0,15Z" fill="none" stroke="#2d2c2c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g id="Group_1198" data-name="Group 1198" transform="translate(7.518 7.922)">
+      <g id="Group_1151" data-name="Group 1151">
+        <g id="support_1_" data-name="support (1)" transform="translate(0 0)">
+          <path id="Path_103" data-name="Path 103" d="M65.9,0a5.675,5.675,0,0,0-5.668,5.668V10.9a1.308,1.308,0,1,0,2.616,0V6.54a1.309,1.309,0,0,0-1.308-1.308,1.294,1.294,0,0,0-.418.075,4.791,4.791,0,0,1,9.555,0,1.284,1.284,0,0,0-.417-.071A1.309,1.309,0,0,0,68.954,6.54V10.9a1.31,1.31,0,0,0,1.308,1.308,1.293,1.293,0,0,0,.436-.08v.516a.437.437,0,0,1-.436.436H67.13a1.308,1.308,0,1,0,0,.872h3.132a1.309,1.309,0,0,0,1.308-1.308V5.668A5.675,5.675,0,0,0,65.9,0Zm0,0" transform="translate(-58.49)" fill="#2d2c2c"/>
+          <path id="Path_104" data-name="Path 104" d="M481.883,213.6v5.071a1.306,1.306,0,0,0,.872-1.228v-2.616a1.306,1.306,0,0,0-.872-1.228Zm0,0" transform="translate(-467.931 -207.413)" fill="#2d2c2c"/>
+          <path id="Path_105" data-name="Path 105" d="M0,214.826v2.616a1.306,1.306,0,0,0,.872,1.228V213.6A1.306,1.306,0,0,0,0,214.826Zm0,0" transform="translate(0 -207.413)" fill="#2d2c2c"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

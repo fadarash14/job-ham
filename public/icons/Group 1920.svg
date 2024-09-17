@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="Group_1920" data-name="Group 1920" transform="translate(-673.217 -376.5)">
+    <path id="Stroke_4" data-name="Stroke 4" d="M.5,18C.5,4.372,4.372.5,18,.5S35.5,4.372,35.5,18,31.628,35.5,18,35.5.5,31.628.5,18Z" transform="translate(672.717 376)" fill="#acacac"/>
+    <g id="Iconly_Curved_Location" data-name="Iconly/Curved/Location" transform="translate(682.963 384.696)">
+      <g id="Location">
+        <path id="Stroke_1" data-name="Stroke 1" d="M5.169,2.585A2.584,2.584,0,1,0,2.584,5.169,2.585,2.585,0,0,0,5.169,2.585Z" transform="translate(5.179 5.386)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_3" data-name="Stroke 3" d="M7.753,18.607C4.757,18.607,0,13.4,0,7.855A7.8,7.8,0,0,1,7.753,0a7.805,7.805,0,0,1,7.754,7.855C15.506,13.4,10.749,18.607,7.753,18.607Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

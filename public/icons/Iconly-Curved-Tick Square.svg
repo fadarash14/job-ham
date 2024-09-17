@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Iconly_Curved_Tick_Square" data-name="Iconly/Curved/Tick Square" transform="translate(0.75 0.75)">
+    <g id="Tick_Square" data-name="Tick Square">
+      <path id="Stroke_2" data-name="Stroke 2" d="M0,11.75C0,20.562,2.938,23.5,11.75,23.5S23.5,20.562,23.5,11.75,20.562,0,11.75,0,0,2.938,0,11.75Z" fill="#fcc155" stroke="#fcc155" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <path id="Stroke_1" data-name="Stroke 1" d="M0,3.014,3.016,6.029,9.044,0" transform="translate(7.228 8.736)" fill="none" stroke="#474546" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

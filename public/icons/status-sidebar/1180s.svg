@@ -1,0 +1,22 @@
+<svg id="hire" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_1119" data-name="Group 1119" transform="translate(0 0)">
+    <g id="Group_828" data-name="Group 828">
+      <g id="Group_826" data-name="Group 826">
+        <path id="Stroke_4" data-name="Stroke 4" d="M.5,15.5C.5,3.819,3.819.5,15.5.5s15,3.319,15,15-3.319,15-15,15S.5,27.181.5,15.5Z" transform="translate(-0.5 -0.5)" fill="#fcc155"/>
+      </g>
+    </g>
+  </g>
+  <g id="Group_1120" data-name="Group 1120" transform="translate(9.072 8.004)">
+    <g id="Iconly_Two-tone_Paper" data-name="Iconly/Two-tone/Paper">
+      <g id="Paper">
+        <path id="Stroke_1" data-name="Stroke 1" d="M8,0H2.923A2.913,2.913,0,0,0,0,2.843v8.168a2.918,2.918,0,0,0,2.923,2.982H9.014a2.964,2.964,0,0,0,2.843-2.982V4.023Z" fill="#474546" stroke="#474546" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+    <g id="Iconly_Curved_Profile" data-name="Iconly/Curved/Profile" transform="translate(3.263 3.368)">
+      <g id="Profile">
+        <path id="Stroke_1-2" data-name="Stroke 1" d="M2.605,2.779C1.2,2.779,0,2.56,0,1.684S1.192,0,2.605,0,5.211.8,5.211,1.676,4.018,2.779,2.605,2.779Z" transform="translate(0 4.553)" fill="#fcc155"/>
+        <path id="Stroke_3" data-name="Stroke 3" d="M1.67,3.34a1.664,1.664,0,1,0-.012,0Z" transform="translate(0.933)" fill="#fcc155"/>
+      </g>
+    </g>
+  </g>
+</svg>

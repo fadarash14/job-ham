@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.5" height="27.5" viewBox="0 0 27.5 27.5">
+  <g id="Group_4358" data-name="Group 4358" transform="translate(20680.75 1742.75)">
+    <g id="Group_826" data-name="Group 826" transform="translate(-21012.5 -2054.5)">
+      <path id="Stroke_4" data-name="Stroke 4" d="M.5,13.5C.5,3.376,3.376.5,13.5.5s13,2.876,13,13-2.876,13-13,13S.5,23.624.5,13.5Z" transform="translate(332 312)" fill="#acacac" stroke="#acacac" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <path id="Icon_metro-folder-open" data-name="Icon metro-folder-open" d="M16.255,19.468l3.158-8.421H5.729L2.571,19.468ZM4.676,9.995,2.571,19.468V5.784H7.307L9.413,7.889h6.842V9.995Z" transform="translate(-20676.992 -1741.352)" fill="#fff"/>
+  </g>
+</svg>

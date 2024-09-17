@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.999" height="34.999" viewBox="0 0 34.999 34.999">
+  <g id="Group_1555" data-name="Group 1555" transform="translate(-1179.865 -350.5)">
+    <path id="Stroke_4" data-name="Stroke 4" d="M0,17.5C0,4.376,4.376,0,17.5,0S35,4.376,35,17.5,30.623,35,17.5,35,0,30.623,0,17.5Z" transform="translate(1179.865 350.5)" fill="#8886ec"/>
+    <g id="Iconly_Curved_Lock" data-name="Iconly/Curved/Lock" transform="translate(1184.865 356)">
+      <g id="Lock" transform="translate(3.5 2)">
+        <path id="Stroke_1" data-name="Stroke 1" d="M9.121,6.653V4.5A4.561,4.561,0,0,0,0,4.484V6.653" transform="translate(3.85 0.75)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_3" data-name="Stroke 3" d="M.5,0V2.221" transform="translate(7.91 12.156)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_5" data-name="Stroke 5" d="M7.66,0C1.915,0,0,1.568,0,6.271s1.915,6.272,7.66,6.272,7.661-1.568,7.661-6.272S13.4,0,7.66,0Z" transform="translate(0.75 6.824)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

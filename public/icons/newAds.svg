@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.5" height="27.5" viewBox="0 0 27.5 27.5">
+  <g id="Group_4359" data-name="Group 4359" transform="translate(20679.75 1791.75)">
+    <g id="Group_826" data-name="Group 826" transform="translate(-21011.5 -2103.5)">
+      <path id="Stroke_4" data-name="Stroke 4" d="M.5,13.5C.5,3.376,3.376.5,13.5.5s13,2.876,13,13-2.876,13-13,13S.5,23.624.5,13.5Z" transform="translate(332 312)" fill="#00c39c" stroke="#00c39c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g id="Iconly_Bulk_Plus" data-name="Iconly/Bulk/Plus" transform="translate(-20672 -1784)">
+      <g id="Plus">
+        <path id="Path_34200" d="M9.533,0H3.467A3.147,3.147,0,0,0,0,3.467V9.533A3.147,3.147,0,0,0,3.467,13H9.533A3.149,3.149,0,0,0,13,9.533V3.467A3.147,3.147,0,0,0,9.533,0Z" transform="translate(0 0)" fill="#fff"/>
+        <path id="Path_34201" d="M4.758,3.06H3.087V4.717a.487.487,0,0,1-.974,0V3.06H.442a.488.488,0,0,1,0-.971H2.108V.438a.493.493,0,0,1,.98,0V2.089H4.758a.488.488,0,0,1,0,.971Z" transform="translate(3.9 3.9)" fill="#00c39c" stroke="#00c39c" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

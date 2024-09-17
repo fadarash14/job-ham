@@ -1,0 +1,14 @@
+<svg id="Component_276_2" data-name="Component 276 – 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.196" height="31.047" viewBox="0 0 24.196 31.047">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_517" data-name="Rectangle 517" width="10.438" height="14.871" fill="#f5f6fa" stroke="#f5f6fa" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <path id="Bookmark_2" data-name="Bookmark 2" d="M23.862-.326C2.813-.729,0-.326,0-.326S0,.789,0,15.86c0-1.088.614-1.76,2.228-2.512L24.192,4.8Z" transform="translate(0 0.505)" fill="#db143d" opacity="0.4"/>
+  <path id="Bookmark" d="M16.74,27.221H7.4c-4.082,0-7.4-1.612-7.4-5.737V12.539c0-1.088.614-1.76,2.228-2.512L21.889.206A1.528,1.528,0,0,1,24.01.824a1.594,1.594,0,0,1,.187.739V21.484C24.156,25.609,20.835,27.221,16.74,27.221Z" transform="translate(0 3.826)" fill="#db143d"/>
+  <g id="Group_2787" data-name="Group 2787" transform="translate(6.246 9.57)">
+    <g id="Group_2785" data-name="Group 2785" transform="translate(1 3)" clip-path="url(#clip-path)">
+      <path id="Path_5086" data-name="Path 5086" d="M9.472,3.149A1.149,1.149,0,0,0,8.325,2.064H7.48a2.526,2.526,0,0,0-4.966,0H1.668A1.149,1.149,0,0,0,.521,3.149L0,12.55a1.149,1.149,0,0,0,1.147,1.212h7.7A1.149,1.149,0,0,0,9.992,12.55Zm-.236,9.834a.534.534,0,0,1-.391.168h-7.7a.539.539,0,0,1-.538-.568l.519-9.4a.539.539,0,0,1,.538-.509h.8v.6a.624.624,0,1,0,.61,0v-.6H6.913v.6a.624.624,0,1,0,.61,0v-.6h.8a.539.539,0,0,1,.538.509l.519,9.4a.534.534,0,0,1-.147.4M5,.61a1.92,1.92,0,0,1,1.86,1.453H3.137A1.92,1.92,0,0,1,5,.61" transform="translate(0.222 0.665)" fill="#f5f6fa" stroke="#f5f6fa" stroke-width="0.3"/>
+    </g>
+  </g>
+</svg>

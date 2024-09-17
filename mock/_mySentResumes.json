@@ -1,0 +1,324 @@
+{
+  "errorCode": 0,
+  "errorMessage": "انجام شد.",
+  "status": true,
+  "count": 3,
+  "perPage": 12,
+  "page": 1,
+  "data": [
+    {
+      "id": "702037",
+      "isSigned": null,
+      "status": 50,
+      "note": null,
+      "rejectreasons_id": null,
+      "rejectdescription": null,
+      "name": "آگهی بلوک زنی ماهر",
+      "content": "تست تست  تس ستس ستس ستس  تس ست ست ست س تستس",
+      "description": "تست تست  تس ستس ستس ستس  تس ست ست ست س تستس",
+      "payment": null,
+      "categoryId": 1665,
+      "cityId": 90,
+      "areaId": 0,
+      "cityString": "دماوند",
+      "areaString": "همه محله ها",
+      "filters": [
+        {
+          "code": 53,
+          "name": "sex",
+          "label": "جنسیت",
+          "value": 1,
+          "valueLabel": "مرد"
+        },
+        {
+          "code": 54,
+          "name": "age",
+          "label": "سن",
+          "value": 1,
+          "valueLabel": "18 تا 25 سال"
+        },
+        {
+          "code": 55,
+          "name": "wage",
+          "label": "حقوق ماهیانه",
+          "value": 2,
+          "valueLabel": "2 تا 3 میلیون تومان"
+        },
+        {
+          "code": 56,
+          "name": "workshift",
+          "label": "شیفت کاری",
+          "value": 3,
+          "valueLabel": "شیفت شب"
+        },
+        {
+          "code": 121,
+          "name": "education",
+          "label": "مدرک تحصیلی",
+          "value": 1,
+          "valueLabel": "زیر دیپلم"
+        },
+        {
+          "code": 127,
+          "name": "workexperience",
+          "label": "سابقه کاری",
+          "value": 2,
+          "valueLabel": "2 تا 5 سال"
+        },
+        {
+          "code": 129,
+          "name": "militaryservice",
+          "label": "خدمت سربازی",
+          "value": 1,
+          "valueLabel": "پایان خدمت یا معافیت دائم"
+        }
+      ],
+      "contact": {
+        "email": "amir.hoseyn.hamidi@gmail.com",
+        "mobile": "09388759310",
+        "telephone": "",
+        "email_show": 1,
+        "mobile_show": 1,
+        "telephone_show": 0
+      },
+      "clear": 0,
+      "price": 200000,
+      "pictures": null,
+      "open_invoice": null,
+      "badges": [],
+      "registerDate": 1684651104,
+      "modifyDate": 1684651104,
+      "confirmDate": 1684651104,
+      "expireDate": 0,
+      "search_view_count": 0,
+      "ads_view_count": 0,
+      "contact_view_count": 0,
+      "suggest_view_count": 0,
+      "adverties": [
+        {
+          "transactionnumber": null,
+          "totalprice": 200000,
+          "registerdate": 1684655595,
+          "id": 105626,
+          "is_pay": false,
+          "finalprice": 200000,
+          "rows": [
+            {
+              "description": "ثبت آگهی (30روزه)",
+              "vas_id": 0,
+              "price_id": 137,
+              "price": 200000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "672489",
+      "isSigned": null,
+      "status": 51,
+      "note": null,
+      "rejectreasons_id": 1,
+      "rejectdescription": "",
+      "name": "یسبل سیبل یب لی",
+      "content": "ی ی ی ی ی ی ی ی یی ی ی ی",
+      "description": "ی ی ی ی ی ی ی ی یی ی ی ی",
+      "payment": 1,
+      "categoryId": 1130,
+      "cityId": 7,
+      "areaId": 1837,
+      "cityString": "تهران",
+      "areaString": "15 خرداد",
+      "filters": [
+        {
+          "code": 11,
+          "name": "buildingage",
+          "label": "سال ساخت",
+          "value": 1401,
+          "valueLabel": "1401"
+        },
+        {
+          "code": 12,
+          "name": "floor",
+          "label": "طبقه",
+          "value": 3,
+          "valueLabel": "1"
+        },
+        {
+          "code": 4,
+          "name": "area",
+          "label": "متراژ",
+          "value": 43,
+          "valueLabel": "43"
+        },
+        {
+          "code": 5,
+          "name": "advertiser",
+          "label": "آگهی دهنده",
+          "value": 1,
+          "valueLabel": "شخصی"
+        },
+        {
+          "code": 10,
+          "name": "rooms",
+          "label": "تعداد اتاق",
+          "value": 2,
+          "valueLabel": "1"
+        },
+        {
+          "code": 135,
+          "name": "realestateprice",
+          "label": "قیمت",
+          "value": 30000000,
+          "valueLabel": "30000000"
+        }
+      ],
+      "contact": {
+        "email": "",
+        "mobile": "09388759310",
+        "telephone": "",
+        "email_show": false,
+        "mobile_show": true,
+        "telephone_show": false
+      },
+      "clear": 1,
+      "price": 0,
+      "pictures": null,
+      "open_invoice": null,
+      "badges": [],
+      "registerDate": 1676889998,
+      "modifyDate": 1676889998,
+      "confirmDate": 1676889998,
+      "expireDate": 0,
+      "search_view_count": 0,
+      "ads_view_count": 0,
+      "contact_view_count": 0,
+      "suggest_view_count": 0,
+      "adverties": [
+        {
+          "transactionnumber": null,
+          "totalprice": null,
+          "registerdate": null,
+          "id": null,
+          "is_pay": null,
+          "finalprice": null,
+          "rows": null
+        }
+      ]
+    },
+    {
+      "id": "661872",
+      "isSigned": null,
+      "status": 1,
+      "note": null,
+      "rejectreasons_id": 0,
+      "rejectdescription": "",
+      "name": "فروش آیفون 7 پلاس ",
+      "content": "فروش آیفون 7 پلاس مشکی . یک بار باتری عوض شده",
+      "description": "فروش آیفون 7 پلاس مشکی . یک بار باتری عوض شده",
+      "payment": 1,
+      "categoryId": 1493,
+      "cityId": 7,
+      "areaId": 971,
+      "cityString": "تهران",
+      "areaString": "الهیه",
+      "filters": [
+        {
+          "code": 66,
+          "name": "originality",
+          "label": "اصالت برند",
+          "value": 1,
+          "valueLabel": "اصل"
+        },
+        {
+          "code": 63,
+          "name": "numberofsimcards",
+          "label": "تعداد سیم کارت",
+          "value": 1,
+          "valueLabel": "1 سیم کارت"
+        },
+        {
+          "code": 131,
+          "name": "mobilemodel",
+          "label": "مدل موبایل",
+          "value": 1098,
+          "valueLabel": "اپل iPhone 7 Plus"
+        },
+        {
+          "code": 122,
+          "name": "mobileandtabletbrand",
+          "label": "برند موبایل/تبلت",
+          "value": 2,
+          "valueLabel": "اپل "
+        },
+        {
+          "code": 52,
+          "name": "commoditycondition",
+          "label": "وضعیت کالا",
+          "value": 3,
+          "valueLabel": "کارکرده"
+        },
+        {
+          "code": 94,
+          "name": "mobilaandtablet",
+          "label": "موضوعات موبایل، تبلت و لوازم جانبی",
+          "value": 1,
+          "valueLabel": "موبایل"
+        },
+        {
+          "code": 1,
+          "name": "price",
+          "label": "قیمت",
+          "value": 7000000,
+          "valueLabel": "7000000"
+        },
+        {
+          "code": 65,
+          "name": "storage",
+          "label": "حافظه داخلی موبایل/تبلت",
+          "value": 7,
+          "valueLabel": "32 گیگابایت"
+        },
+        {
+          "code": 64,
+          "name": "ram",
+          "label": "مقدار رم موبایل/تبلت",
+          "value": 4,
+          "valueLabel": "3 گیگابایت"
+        }
+      ],
+      "contact": {
+        "email": "amir.hoseyn.hamidi@gmai.com",
+        "mobile": "9388759310",
+        "telephone": "",
+        "email_show": true,
+        "mobile_show": false,
+        "telephone_show": false
+      },
+      "clear": 1,
+      "price": 0,
+      "pictures": null,
+      "open_invoice": null,
+      "badges": [],
+      "registerDate": 1674385350,
+      "modifyDate": 1674398369,
+      "confirmDate": 1674398369,
+      "expireDate": 1677063933,
+      "search_view_count": 801,
+      "ads_view_count": 39,
+      "contact_view_count": 4,
+      "suggest_view_count": 39,
+      "adverties": [
+        {
+          "transactionnumber": null,
+          "totalprice": null,
+          "registerdate": null,
+          "id": null,
+          "is_pay": null,
+          "finalprice": null,
+          "rows": null
+        }
+      ]
+    }
+  ]
+}

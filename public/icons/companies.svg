@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.5" height="27.5" viewBox="0 0 27.5 27.5">
+  <g id="Group_7740" data-name="Group 7740" transform="translate(-1487.488 -7294.493)">
+    <g id="Group_7736" data-name="Group 7736" transform="translate(22314.176 9568.969)" opacity="0.8">
+      <path id="Stroke_4" data-name="Stroke 4" d="M.5,13.5C.5,3.376,3.376.5,13.5.5s13,2.876,13,13-2.876,13-13,13S.5,23.624.5,13.5Z" transform="translate(-20826.438 -2274.226)" fill="#acacac" stroke="#acacac" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <path id="icons8_company" d="M4.777,3a.694.694,0,1,0,0,1.389H11.72A.694.694,0,1,0,11.72,3ZM2.694,5.777a.694.694,0,1,0,0,1.389v11.8H6.86V16.191H9.637v2.777H13.8V7.166a.694.694,0,1,0,0-1.389ZM4.083,7.86H5.471V9.248H4.083Zm2.777,0H9.637V9.248H6.86Zm4.166,0h1.389V9.248H11.026Zm4.166,0V18.968h4.166V7.86ZM16.58,9.943h1.389v1.389H16.58Zm-12.5.694H5.471v1.389H4.083Zm2.777,0H9.637v1.389H6.86Zm4.166,0h1.389v1.389H11.026ZM16.58,12.72h1.389v1.389H16.58Zm-12.5.694H5.471V14.8H4.083Zm2.777,0H9.637V14.8H6.86Zm4.166,0h1.389V14.8H11.026ZM16.58,15.5h1.389v1.389H16.58Zm-12.5.694H5.471V17.58H4.083Zm6.943,0h1.389V17.58H11.026Z" transform="translate(1490.56 7297.259)" fill="#fff"/>
+  </g>
+</svg>

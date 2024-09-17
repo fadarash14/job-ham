@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.5" height="31.5" viewBox="0 0 31.5 31.5">
+  <g id="Group_1355" data-name="Group 1355" transform="translate(0.75 0.75)">
+    <path id="Stroke_4" data-name="Stroke 4" d="M.5,15.5C.5,3.819,3.819.5,15.5.5s15,3.319,15,15-3.319,15-15,15S.5,27.181.5,15.5Z" transform="translate(-0.5 -0.5)" fill="none" stroke="#00c39c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <g id="Iconly_Curved_Bookmark" data-name="Iconly/Curved/Bookmark" transform="translate(8.5 6.5)">
+      <g id="Bookmark">
+        <path id="Stroke_2" data-name="Stroke 2" d="M6.348,0C.921,0,0,.779,0,7.043c0,7.013-.133,8.832,1.223,8.832S4.8,12.8,6.348,12.8s3.766,3.078,5.122,3.078,1.223-1.82,1.223-8.832C12.693.779,11.776,0,6.348,0Z" transform="translate(0 0)" fill="#00c39c"/>
+        <path id="Stroke_1" data-name="Stroke 1" d="M0,.5H5.826" transform="translate(3.436 5.113)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

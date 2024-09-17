@@ -1,0 +1,20 @@
+stages:
+  - build
+
+
+cache:
+  paths:
+    - node_modules/
+
+build-production:
+  stage: build
+  only:
+    - main
+  tags:
+    - front
+    - job
+
+  script:
+    - cd /home/rahnama/source/job
+    - git pull origin main
+    - docker-compose up -d --build

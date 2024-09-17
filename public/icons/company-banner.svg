@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1120 166">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        mask: url(#mask-2);
+      }
+
+      .cls-4 {
+        mask: url(#mask-3);
+      }
+
+      .cls-5 {
+        mask: url(#mask-4);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-7 {
+        fill: #999;
+      }
+
+      .cls-8 {
+        mask: url(#mask-1);
+      }
+
+      .cls-9 {
+        mask: url(#mask);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-1275.86" y1="1536.7" x2="-1094.31" y2="1881.12" gradientTransform="translate(1523.37 -1663.35)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <mask id="mask" y="0" width="716.06" height="166" maskUnits="userSpaceOnUse">
+      <rect class="cls-11" y="0" width="716.06" height="166"/>
+    </mask>
+    <linearGradient id="linear-gradient-2" x1="-1326.99" y1="1628.97" x2="-1247.25" y2="1859.2" xlink:href="#linear-gradient"/>
+    <mask id="mask-1" y="0" width="474.08" height="166" maskUnits="userSpaceOnUse">
+      <rect class="cls-1" y="0" width="474.08" height="166"/>
+    </mask>
+    <linearGradient id="linear-gradient-3" x1="-1411.8" y1="1668.79" x2="-1413.53" y2="1812.23" xlink:href="#linear-gradient"/>
+    <mask id="mask-2" y="0" width="221.27" height="166" maskUnits="userSpaceOnUse">
+      <rect class="cls-10" y="0" width="221.27" height="166"/>
+    </mask>
+    <linearGradient id="linear-gradient-4" x1="-1434.06" y1="1717.73" x2="-1287.81" y2="1831.86" xlink:href="#linear-gradient"/>
+    <mask id="mask-3" y="104.47" width="385.86" height="61.53" maskUnits="userSpaceOnUse">
+      <rect class="cls-12" y="104.47" width="385.86" height="61.53"/>
+    </mask>
+    <linearGradient id="linear-gradient-5" x1="-1294.65" y1="1425.37" x2="-914.76" y2="1792.09" gradientTransform="translate(1527.05 -1663.35)" xlink:href="#linear-gradient"/>
+    <mask id="mask-4" x="9.81" y="0" width="1110.19" height="166" maskUnits="userSpaceOnUse">
+      <rect class="cls-6" x="9.81" y="0" width="1110.19" height="166"/>
+    </mask>
+  </defs>
+  <rect class="cls-7" width="1120" height="166"/>
+  <g class="cls-9">
+    <path class="cls-2" d="M0,0V166H716.06C480.88,132.35,314.34,71.36,283.15,0H0Z"/>
+  </g>
+  <g class="cls-8">
+    <path class="cls-2" d="M0,0V166H474.08C226.43,134.16,47.69,72.73,9.81,0H0Z"/>
+  </g>
+  <g class="cls-3">
+    <path class="cls-2" d="M131.26,86.17c6.5-30.86,38.22-60.02,90.01-86.17H0V166H172.47c-27.55-21.39-42.46-44.24-42.46-67.97,0-3.98,.42-7.93,1.25-11.86"/>
+  </g>
+  <g class="cls-4">
+    <path class="cls-2" d="M143.13,136.23C90.9,127,42.9,116.34,0,104.47v61.53H385.86c-87.61-6.67-169.34-16.81-242.73-29.77"/>
+  </g>
+  <g class="cls-5">
+    <path class="cls-2" d="M1120,135.49c-81.62,6.54-168.5,10.07-258.62,10.07-121.1,0-236.35-6.37-340.85-17.86-150.35-16.53-278.44-43.67-369.65-77.71C166.39,32.43,190.22,15.68,221.27,0H9.81c16.3,31.3,58.7,60.51,121.45,86.17,83.05,33.96,201.76,61.69,342.82,79.83h645.92v-30.51Z"/>
+  </g>
+</svg>

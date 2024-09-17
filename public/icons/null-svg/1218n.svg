@@ -1,0 +1,33 @@
+<svg id="icon_ads_image_empty_furniture" data-name="icon/ads/image/empty/furniture" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="88" viewBox="0 0 92 88">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Search_Field" data-name="Search Field" width="92" height="88" rx="15" transform="translate(38.703 2)" fill="#474546" stroke="#474546" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.081" x2="0.5" y2="0.87" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#474546" stop-opacity="0"/>
+      <stop offset="1" stop-color="#474546"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2577" data-name="Group 2577" transform="translate(-38.703 -2)" clip-path="url(#clip-path)">
+    <rect id="Rectangle_497" data-name="Rectangle 497" width="105" height="57" transform="translate(26.703 47)" fill="url(#linear-gradient)"/>
+    <g id="Group_2576" data-name="Group 2576" transform="translate(97.594 1)">
+      <g id="Iconly_Bulk_Bookmark" data-name="Iconly/Bulk/Bookmark" transform="translate(0)">
+        <g id="Bookmark" transform="translate(0)">
+          <path id="Bookmark_2" data-name="Bookmark 2" d="M22.9-.334C2.7-.72,0-.334,0-.334S0,.737,0,15.2c0-1.044.589-1.689,2.138-2.411l21.078-8.2Z" transform="translate(0 0.505)" opacity="0.6"/>
+          <path id="Bookmark-2" data-name="Bookmark" d="M16.064,26.122H7.1c-3.917,0-7.1-1.547-7.1-5.5V12.032c0-1.044.589-1.689,2.138-2.411L21.005.2A1.467,1.467,0,0,1,23.04.79a1.53,1.53,0,0,1,.179.709V20.617C23.181,24.575,19.994,26.122,16.064,26.122Z" transform="translate(0 3.672)"/>
+        </g>
+      </g>
+      <g id="Iconly_Light-Outline_Document" data-name="Iconly/Light-Outline/Document" transform="translate(6.032 13.208)">
+        <g id="Document">
+          <path id="Combined_Shape" data-name="Combined Shape" d="M0,8.792V3.236A3,3,0,0,1,3.151,0L7.8,0a3.036,3.036,0,0,1,3.176,3.236V8.792a3.006,3.006,0,0,1-3.151,3.236H3.176A3.036,3.036,0,0,1,0,8.792ZM3.154.909A2.111,2.111,0,0,0,.906,3.236V8.792a2.114,2.114,0,0,0,2.269,2.331l4.646,0a2.11,2.11,0,0,0,2.247-2.328V3.236A2.113,2.113,0,0,0,7.8.906Zm.167,8.138a.453.453,0,1,1,0-.906H7.682a.453.453,0,1,1,0,.906Zm0-2.53a.453.453,0,1,1,0-.906H7.682a.453.453,0,1,1,0,.906Zm3-2.523a.453.453,0,1,1,0-.906H7.985a.453.453,0,1,1,0,.906Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_498" data-name="Rectangle 498" width="104" height="110" transform="translate(31.703 -6)" fill="#e8e8ec"/>
+  </g>
+  <path id="Stroke_4" data-name="Stroke 4" d="M.5,20.39C.5,4.9,4.9.5,20.39.5s19.89,4.4,19.89,19.89-4.4,19.89-19.89,19.89S.5,35.879.5,20.39Z" transform="translate(24.721 23.355)" fill="#acacac" opacity="0.27"/>
+  <g id="Group_2591" data-name="Group 2591" transform="translate(34.645 33.031)">
+    <path id="Path_47" data-name="Path 47" d="M81.769,11.388V11.4a4.385,4.385,0,0,1,.571,2.173v.841a15.08,15.08,0,0,1,5.441-.958,15.4,15.4,0,0,1,5.514.956l.007-.839A4.783,4.783,0,0,1,93.89,11.2l.847-5.581a4.724,4.724,0,0,0-1.066-3.856,5.237,5.237,0,0,0-4-1.759H85.968a5.228,5.228,0,0,0-4,1.761A4.728,4.728,0,0,0,80.9,5.617Z" transform="translate(-77.316 0)" fill="#acacac"/>
+    <path id="Path_48" data-name="Path 48" d="M24.8,224c-1.628,0-2.48,1.563-2.48,3.106v.925a1.011,1.011,0,0,1-.423.841.8.8,0,0,1-.763.073,14.186,14.186,0,0,0-5.332-.959,13.963,13.963,0,0,0-5.253.959.8.8,0,0,1-.763-.073,1.015,1.015,0,0,1-.423-.841v-.925A2.9,2.9,0,0,0,6.641,224c-.842,0-1.3,1-1.3,1.5a1.81,1.81,0,0,0,.968,1.545c.054.024.114.05.178.073.484.193,1.385.553,1.385,1.585v2c0,.747.161,2.392,1.506,2.7a.477.477,0,0,0-.011.055v1a.5.5,0,0,0,.5.5h.5a.5.5,0,0,0,.5-.5v-1h9.966v1a.5.5,0,0,0,.5.5h.5a.5.5,0,0,0,.5-.5v-1c0-.014-.007-.026-.008-.039,1.227-.234,1.5-1.573,1.5-2.716v-2a1.764,1.764,0,0,1,1.38-1.586l.175-.072a1.761,1.761,0,0,0,.9-1.545A1.7,1.7,0,0,0,24.8,224Z" transform="translate(-5.34 -213.535)" fill="#acacac"/>
+  </g>
+</svg>

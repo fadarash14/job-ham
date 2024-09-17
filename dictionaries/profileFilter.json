@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "name": "همه",
+    "color": "",
+    "path": "",
+    "state": false
+  },
+  {
+    "id": 50,
+    "name": "منـتظر تایید",
+    "color": "RGBA(20,165,219,1)",
+    "background": "RGBA(20,165,219,0.08)",
+    "path": "Line2",
+    "state": false
+  },
+  {
+    "id": 51,
+    "name": "رد شـده",
+    "color": "white",
+    "background": "#EA748C",
+    "path": "Line6",
+    "state": false
+  },
+  {
+    "id": 5,
+    "name": "حـذف شـده",
+    "color": "RGBA(71,69,70,1)",
+    "background": "RGBA(204,204,207,0.37)",
+    "path": "Line3",
+    "state": false
+  },
+  {
+    "id": 1,
+    "name": "منـتشر شـده",
+    "color": "RGBA(0,195,156,1)",
+    "background": "RGBA(0,195,156,0.08)",
+    "path": "Line4",
+    "state": false
+  },
+  {
+    "id": 72,
+    "name": "انصراف داده شده",
+    "color": "black",
+    "background": "#D1D1D1",
+    "path": "Line5",
+    "state": false
+  },
+  {
+    "id": 73,
+    "name": "آرشیو",
+    "color": "black",
+    "background": "#212FFB",
+    "path": "Line5",
+    "state": false
+  }
+]

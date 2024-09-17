@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.497" height="21.497" viewBox="0 0 21.497 21.497">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.5px}
+        </style>
+    </defs>
+    <g id="Group_1370" transform="translate(-74.75 -108)">
+        <g id="Iconly_Curved_Close_Square" transform="translate(74.75 108)">
+            <g id="Close_Square" transform="translate(0 0)">
+                <path id="Stroke_3" fill="#474546" d="M0 10.748C0 18.809 2.688 21.5 10.748 21.5S21.5 18.809 21.5 10.748 18.809 0 10.748 0 0 2.688 0 10.748z"/>
+            </g>
+        </g>
+        <path id="Stroke_1" d="M5.568 0L0 5.568" class="cls-2" transform="translate(82.712 115.954)"/>
+        <path id="Stroke_2" d="M5.578 5.578L0 0" class="cls-2" transform="translate(82.709 115.952)"/>
+    </g>
+</svg>
